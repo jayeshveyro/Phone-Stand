@@ -1,4 +1,4 @@
-# Fancy Vase 
+# Phone Stand 
 This is my project 2 of improving 3D designing series. This time I made something practical and what I needed a Phone stand.
 
 ## Print Settings
